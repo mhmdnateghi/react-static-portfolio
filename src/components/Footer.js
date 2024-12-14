@@ -2,7 +2,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/nav-icon2.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
-import logo from "../logo.svg";
+import logo from "../logo.png";
 
 export const Footer = () => {
   return (
